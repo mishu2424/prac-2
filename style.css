@@ -1,0 +1,32 @@
+.cut-width {
+  width: 12%;
+  border-radius: 20px;
+  box-shadow: 1px 1px 20px black;
+  padding-left: 1%;
+  padding-top: 1%;
+
+  height: 7cm;
+}
+.pic {
+  width: 150px;
+  border-radius: 20px;
+}
+.para {
+  width: 150px;
+  font-size: 12px;
+}
+.flex {
+  display: flex;
+}
+.position {
+  position: relative;
+  left: 29%;
+}
+.position1 {
+  position: relative;
+  left: 27%;
+}
+.position3 {
+  position: relative;
+  left: 25%;
+}
